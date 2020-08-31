@@ -21,9 +21,5 @@
   <a href="https://t.me/smexay"><p style="text-align: center;"align="center">Telegram</p></a>
 </details>
 
-<details>
-      <summary>stats.</summary>
-  <p align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smexay">
-  </p>
-</details>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=smexay">
+</p>
