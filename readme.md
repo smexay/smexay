@@ -24,6 +24,6 @@
 <details>
       <summary>stats.</summary>
   <p align=center>
-    [![stats.](https://github-readme-stats.vercel.app/api?username=smexay)](https://github.com/smexay)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smexay">
   </p>
 </details>
