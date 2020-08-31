@@ -6,21 +6,4 @@
   😲  Followers: 20<br>
 </p>
 
-<details style='text-align: center;' align='center'>
-  <summary> Information </summary>
-  <p style="text-align: center;"align="center">Age: 13 </p></a>
-  <p style="text-align: center;"align="center">Location: Michigan, USA</p></a>
-  <p style="text-align: center;"align="center">Breaking things in my free time</p></a>
-  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
-</details>
 
-<details style='text-align: center;' align='center'>
-  <summary>Social Info</summary>
-  <a href="https://dsc.bio/smexay"><p style="text-align: center;"align="center">Discord</p></a>
-  <a href="https://twitter.com/litsmexay"><p style="text-align: center;"align="center">Twitter</p></a>
-  <a href="https://t.me/smexay"><p style="text-align: center;"align="center">Telegram</p></a>
-</details>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=smexay">
-</p>
-</p>
