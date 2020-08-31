@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/smexay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://smexay.club
+  * I am smexay (https://keybase.io/smexay) on keybase.
+  * I have a public key ASBS-KS2TksLmh7WDl0_M61v_qCA2QL-m9n6FJun3CKw5wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010076786890a96481d61fddbc620eec1ebda4d8afd50d2efbd68b42c72a386d670a",
+      "host": "keybase.io",
+      "kid": "012052f8a4b64e4b0b9a1ed60e5d3f33ad6ffea080d902fe9bd9fa149ba7dc22b0e70a",
+      "uid": "d140dca356b00734be0b08afba653119",
+      "username": "smexay"
+    },
+    "merkle_root": {
+      "ctime": 1598881264,
+      "hash": "faba903c384459ba6056d0bcb4bd404cb3fe604610445f496430f0e27eeb3c3d09f986cc7fcc43fc2af49952db00d280b570ba6b84cc47bf955f8fe6c6732f31",
+      "hash_meta": "fe80762fd8d7af7ad7cefce244c30b05c15eddc662c61973c629b848859f0d9a",
+      "seqno": 17433169
+    },
+    "service": {
+      "entropy": "5hN0Eo1qbNyFUbk1Exataqlv",
+      "hostname": "smexay.club",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1598881320,
+  "expire_in": 504576000,
+  "prev": "2b48b87757dceceae209fc5231a21e4c858f39297e9b7269c07501d41c4df4fd",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUviktk5LC5oe1g5dPzOtb/6ggNkC/pvZ+hSbp9wisOcKp3BheWxvYWTESpcCDsQgK0i4d1fc7OriCfxSMaIeTIWPOSl+m3JpwHUB1BxN9P3EIGxrp9U54WRZYeVJLs6uZt0psw3b+EEXw3EbnO6xIrfLAgHCo3NpZ8RA44ekATlthmrf3DmsGO24z23BE5W4Hh5ZJQ1cSMlN5HLJde5Bn9eJcjQmtUjPIBodCnxCCkB8iYFc5Il7qG4lCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEU/G71owuiAgFUFYyhEczL0KK7JScAR8bAFrqSM6OlXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/smexay
+
+==================================================================
