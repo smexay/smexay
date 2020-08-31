@@ -1,24 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <a>
+<img src="https://cdn.discordapp.com/icons/742169629698424924/a_b0fbcaf967c85ce0ffc7daf0cebcc35e.gif?size=128" alt="Avatar" style="border-radius: 75%;">
+  </a><br>
+  📝  Repos: 5<br>
+  😲  Followers: 20<br>
+</p>
 
-Hi, I'm smexay! I'm an aspiring software developer from Michigan developing useful and epic programs. I open-source a lot of my stuff so you can see it here on GitHub :octocat:.
+<details style='text-align: center;' align='center'>
+  <summary> Information </summary>
+  <p style="text-align: center;"align="center">Age: 13 </p></a>
+  <p style="text-align: center;"align="center">Location: Michigan, USA</p></a>
+  <p style="text-align: center;"align="center">Breaking things in my free time</p></a>
+  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
+</details>
 
-### 🛠 Some tools and languages I've been using lately:
+<details style='text-align: center;' align='center'>
+  <summary>Social Info</summary>
+  <a href="https://dsc.bio/smexay"><p style="text-align: center;"align="center">Discord</p></a>
+  <a href="https://twitter.com/litsmexay"><p style="text-align: center;"align="center">Twitter</p></a>
+  <a href="https://t.me/smexay"><p style="text-align: center;"align="center">Telegram</p></a>
+</details>
 
-<img align="left" alt="Visual Studio Code" width="26px" style="margin-right:20px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="margin-right:20px;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" style="margin-right:20px;" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" style="margin-right:20px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style="margin-right:20px;" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" style="margin-right:20px;" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" style="margin-right:20px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alin="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" style="margin-right:20px;" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" style="margin-right:20px;" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" style="margin-right:20px;" alt="Mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-
-<br />
-<br />
-<br />
-
-![Stats](https://github-readme-stats.vercel.app/api?username=smexay)
+<details>
+      <summary>stats.</summary>
+  <p align=center>
+    [![stats.](https://github-readme-stats.vercel.app/api?username=smexay)](https://github.com/smexay)
+  </p>
+</details>
