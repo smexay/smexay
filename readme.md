@@ -1,5 +1,4 @@
-# ✌ Hi, I'm Smexay!
-
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> smeks</h1>
 - I'm a self-taught developer based in the **United States**.
 
 Some technologies I know/I'm interested in and/or might mess around with sometime in the future:
