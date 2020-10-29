@@ -1,5 +1,5 @@
-<img src="https://github.com/smexay/smexay/blob/master/Untitled-1-01.png?raw=true"
 <p align='center'>
+  <img src="https://github.com/smexay/smexay/blob/master/Untitled-1-01.png?raw=true"
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
 </p>
   
