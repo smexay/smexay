@@ -5,7 +5,6 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-  
   <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
   <code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
   <code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
