@@ -1,6 +1,6 @@
 <p align='center'>
   <img src="https://github.com/smexay/smexay/blob/master/Untitled-1-01.png?raw=true"
-       
+       \n
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
